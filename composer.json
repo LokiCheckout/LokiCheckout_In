@@ -4,8 +4,7 @@
     "description": "Indian settings",
     "keywords": [
         "loki-checkout",
-        "loki-checkout-inan-trial",
-        "loki-checkout-category-language"
+        "loki-checkout-category-country"
     ],
     "type": "magento2-module",
     "require": {
