@@ -23,8 +23,5 @@
         "psr-4": {
             "LokiCheckout\\In\\": ""
         }
-    },
-    "extra": {
-        "label": "India Settings"
     }
 }
