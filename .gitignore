@@ -1,20 +1,11 @@
 .gitlab-ci-local
 
-.gitlab-ci-local
 
-.gitlab-ci-local
 
-.gitlab-ci-local
 
-.gitlab-ci-local
 
-.gitlab-ci-local
 
-.gitlab-ci-local
 
-.gitlab-ci-local
 
-.gitlab-ci-local
-.playwright
-.opencode
-.gitlab-ci-local
+.playwright/
+.opencode/
